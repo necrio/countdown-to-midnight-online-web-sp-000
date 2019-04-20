@@ -1,10 +1,10 @@
 #write your code here
 
-def countdown(10)
-
-    while 10 > 0
-      puts "#{10} SECOND(S)!"
-      10 -= 1
+def countdown
+    x = 10
+    while x > 0
+      puts "#{x} SECOND(S)!"
+      x -= 1
     end
 
 
